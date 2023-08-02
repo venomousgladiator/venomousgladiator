@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Cybersecurity
 - 🌱 I’m currently learning ...Python and Linux/Networks
 - 💞️ I’m looking to collaborate on ...CyberSec Projects
-- 📫 How to reach me ...vermeerx.86@gmail.com
+
 
 <!---
 venomousgladiator/venomousgladiator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
