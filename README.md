@@ -12,7 +12,7 @@ I am a passionate and dedicated cybersecurity professional with a strong backgro
 
 ## Contact
 
-📧 Feel free to reach out to me via email at vermeerx.86@gmail.com.
+📧 Feel free to reach out to me via email at shubhamkolaskar2004@gmail.com.
 
 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-kolaskar/).
 
