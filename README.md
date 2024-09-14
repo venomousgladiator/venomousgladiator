@@ -1,23 +1,17 @@
-# Hi Shubham here !!! I'm a Cybersecurity Professional...
-
-## About Me
-
-I am a passionate and dedicated cybersecurity professional with a strong background in securing digital assets and systems. With a deep interest in emerging cyber threats and a commitment to staying ahead of the curve, I constantly strive to enhance my skills and contribute to the protection of online environments.
-
-- 🔒 Ethical Hacking & Network Security
-- 🛡️ Cybersrcurity Engineer & Avid Developer
-- 🌐 Specialized in network security and penetration testing
-- 📚 Lifelong learner and technology enthusiast
+# 💫 About Me:
+I am a passionate and dedicated cybersecurity professional with a strong background in securing digital assets and systems. With a deep interest in emerging cyber threats and a commitment to staying ahead of the curve, I constantly strive to enhance my skills and contribute to the protection of online environments.<br>🔒 Ethical Hacking & Network Security<br>🛡️ Cybersrcurity Engineer & Avid Developer<br>🌐 Specialized in network security and penetration testing<br>📚 Lifelong learner and technology enthusiast<br>Contact<br>📧 Feel free to reach out to me via email at shubhamkolaskar2004@gmail.com<br><br>🌐 Connect with me on LinkedIn<br><br>Stay Secure, Stay Vigilant!<br>As cybersecurity threats continue to evolve, I am committed to fortifying our digital landscape. By combining technical expertise with a proactive mindset, I am dedicated to making the digital world a safer place for all.<br><br>"In a world full of zeros and ones, stay a step ahead."
 
 
-## Contact
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat-square&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=venomousgladiator&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=venomousgladiator&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=venomousgladiator&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-📧 Feel free to reach out to me via email at shubhamkolaskar2004@gmail.com
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=venomousgladiator&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
-🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-kolaskar/)
+---
+[![](https://visitcount.itsvg.in/api?id=venomousgladiator&icon=0&color=3)](https://visitcount.itsvg.in)
 
-## Stay Secure, Stay Vigilant!
-
-As cybersecurity threats continue to evolve, I am committed to fortifying our digital landscape. By combining technical expertise with a proactive mindset, I am dedicated to making the digital world a safer place for all.
-
-_"In a world full of zeros and ones, stay a step ahead."_
